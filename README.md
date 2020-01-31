@@ -5,4 +5,4 @@
 
 thanks to Dana Peters.
 
-[![Video Label](http://img.youtube.com/vi/xkut3yRL61U/0.jpg)](https://youtu.be/xkut3yRL61Ut=0s) Video Label
+[![Video Label](http://img.youtube.com/vi/xkut3yRL61U/0.jpg)](https://youtu.be/xkut3yRL61Ut=0s)
