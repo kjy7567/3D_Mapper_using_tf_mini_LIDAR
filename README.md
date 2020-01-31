@@ -5,4 +5,4 @@
 
 thanks to Dana Peters.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/xkut3yRL61U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/xkut3yRL61U/0.jpg)](https://youtu.be/xkut3yRL61U?t=0s) Video Label
